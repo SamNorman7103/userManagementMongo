@@ -1,5 +1,6 @@
-In order to run this application, do the following:
+BE SURE TO RUN NPM INSTALL BEFORE FOLLOWING THESE STEPS
 
+In order to run this application, do the following:
 1. Ensure that your local mongoDB is on localhost:27107
 2. Create a blank db that has 1 blank collection
 3. whatever your DB name is, open app.js and replace the db name on line 5 with your db name(replace "user-management" with your db name)
